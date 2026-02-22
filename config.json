@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "437169-20659",
+            "id": "f5c215f6-2c65-4d09-bd53-919bcef1b1b9",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/kobe"
+          "path": "/vless"
         }
       }
     }
